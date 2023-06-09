@@ -1,0 +1,13 @@
+.productImage {
+    width: 100px;
+    height: 100px;
+}
+
+.productName {
+    color: blue;
+    font-size: 18px;
+}
+
+.productPrice {
+    font-weight: bold;
+}
